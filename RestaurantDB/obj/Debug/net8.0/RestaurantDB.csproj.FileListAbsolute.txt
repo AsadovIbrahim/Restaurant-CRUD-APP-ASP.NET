@@ -128,3 +128,5 @@ C:\Users\ASUS\source\repos\Restaurant-Project\RestaurantDB\obj\Debug\net8.0\refi
 C:\Users\ASUS\source\repos\Restaurant-Project\RestaurantDB\obj\Debug\net8.0\RestaurantDB.pdb
 C:\Users\ASUS\source\repos\Restaurant-Project\RestaurantDB\obj\Debug\net8.0\RestaurantDB.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\Restaurant-Project\RestaurantDB\obj\Debug\net8.0\ref\RestaurantDB.dll
+C:\Users\ASUS\source\repos\Restaurant-Project\RestaurantDB\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ASUS\source\repos\Restaurant-Project\RestaurantDB\obj\Debug\net8.0\RestaurantDB.sourcelink.json
